@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/add.png</file>
+        <file>res/cross.png</file>
+        <file>res/download (1).png</file>
+        <file>res/download (2).png</file>
+        <file>res/download.png</file>
+        <file>res/list.png</file>
+        <file>res/Logo.png</file>
+        <file>res/plus.png</file>
+        <file>res/refresh.png</file>
+        <file>res/search.png</file>
+        <file>res/trash.png</file>
+        <file>res/user.png</file>
+    </qresource>
+</RCC>
